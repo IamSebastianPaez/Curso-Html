@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+  </head>
+  <body>
+    <h1>Encabezado 10 o 15</h1>
+    <!--<Es mi primer comentario de dos lienas>
+        <Aprendiendo a documentar mi código con OpenBootcamp>-->
+    <p>Esto es un Párrafo</p>
+    <div>
+
+    </div>
+    <a href="https://google.com">Este es un enlace externo</a>
+    <a href="mi-primera-pagina-web.html">Este es un enlace interno</a>
+    <div>
+      <h2>Lista de canales que me gustan.</h2>
+      <div>
+        <h4>Lista desordenada</h4>
+        <ul>
+            <li><a href="https://www.youtube.com/@auron"> Auronplay </a> </a> </li>
+            <li><a href="https://www.youtube.com/@TheWildProject">TheWildProject </a> </a> </li>
+            <li><a href="https://www.youtube.com/user/ElRinconDeGiorgio"> ElRinconDeGiorgio </a> </a> </li>
+            <li><a href="https://www.youtube.com/channel/UCOcNuFJPrcARydmYXNoPOtw"> Josebas </a> </a> </li>
+            <li><a href="https://www.youtube.com/@HiClavero"> HiClavero </a> </a> </li>
+        </ul>
+      </div>
+    </div>
+
+    <img src="" alt="" id="" class="" />
+
+  </body>
+</html>
