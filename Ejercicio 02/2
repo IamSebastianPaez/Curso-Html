@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title> Ejercicio 02/2</title>
+
+    </head>
+    <body>
+        <table class="default">
+
+            <tr>
+          
+              <td>Titulo</td>
+          
+              <td>Autor</td>
+          
+              <td>Año de publicacion</td>
+
+              <td> Enlace a Amazon</td>
+          
+            </tr>
+          
+            <tr>
+          
+           
+                <td>Spare</td>
+          
+                <td> Prince Harry The Duke of Sussex</td>
+            
+                <td>2023 </td> 
+            
+                <td> <a href="https://www.amazon.com/Prince-Harry-Duke-Sussex/dp/0593593804/ref=zg_sccl_2/139-8086608-0109921?pd_rd_w=6Q8Kd&content-id=amzn1.sym.193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_p=193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_r=ADR6WXMVCZEWNFWFV77M&pd_rd_wg=auITs&pd_rd_r=d7571e0e-05bf-4edb-b9ee-ae8e65f4a2ce&pd_rd_i=0593593804&psc=1">Link</td>
+                    <td>Spare</td>
+          
+                    <td> Prince Harry The Duke of Sussex</td>
+                
+                    <td>2023 </td> 
+                
+                    <td> <a href="https://www.amazon.com/Prince-Harry-Duke-Sussex/dp/0593593804/ref=zg_sccl_2/139-8086608-0109921?pd_rd_w=6Q8Kd&content-id=amzn1.sym.193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_p=193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_r=ADR6WXMVCZEWNFWFV77M&pd_rd_wg=auITs&pd_rd_r=d7571e0e-05bf-4edb-b9ee-ae8e65f4a2ce&pd_rd_i=0593593804&psc=1">Link</td>
+                        <td>Spare</td>
+          
+                        <td> Prince Harry The Duke of Sussex</td>
+                    
+                        <td>2023 </td> 
+                    
+                        <td> <a href="https://www.amazon.com/Prince-Harry-Duke-Sussex/dp/0593593804/ref=zg_sccl_2/139-8086608-0109921?pd_rd_w=6Q8Kd&content-id=amzn1.sym.193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_p=193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_r=ADR6WXMVCZEWNFWFV77M&pd_rd_wg=auITs&pd_rd_r=d7571e0e-05bf-4edb-b9ee-ae8e65f4a2ce&pd_rd_i=0593593804&psc=1">Link</td>
+            </tr>
+          
+          </table>
+    </body>
+</html>
