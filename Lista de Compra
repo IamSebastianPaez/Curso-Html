@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <link rel="stylesheet" href="estilos.css">
+    <title>Lista de Compra</title>
+</head>
+    <body>
+    <h1 id="Titulo" > Lista de Compra </h1>
+    <div>
+    <p> Articulos de compra</p>
+    <ul>
+        <li id="Elemento1" class="primero" >Condones</li>
+        <li id="Elemento2"  >Lubricante</li>
+        <li id="Elemento3"  >Anillo Vibrador</li>
+        <li id="Elemento4"  >Hot sensation</li>
+        <li id="Elemento5"  >Halls negros</li>
+    </ul>
+    <ol>
+        <li id="Elemento1-1" class="primero" >Jumbo</li>
+        <li id="ElementoLo2" >Ara</li>
+        <li id="ElementoLo3" >D1</li>
+        <li id="ElementoLo4" >Carulla</li>
+        <li id="ElementoLo5" >Metro</li>
+    </ol>
+    </body>
+</html>
